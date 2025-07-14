@@ -5,30 +5,21 @@
 # 2、页面
 
 ## 小程序端
-
-![](lease.assets/屏幕截图 2025-07-11 215935.png)
-
-![屏幕截图 2025-07-11 215944](lease.assets/屏幕截图2025-07-11215944.png)
-
-![](lease.assets/屏幕截图 2025-07-11 215949.png)
-
-![屏幕截图 2025-07-11 220007](lease.assets/屏幕截图2025-07-11220007.png)
-
-![屏幕截图 2025-07-11 220012](lease.assets/屏幕截图2025-07-11220012.png)
-
-![屏幕截图 2025-07-11 220021](lease.assets/屏幕截图2025-07-11220021.png)
-
-![屏幕截图 2025-07-11 220031](lease.assets/屏幕截图2025-07-11220031.png)
+<img width="1019" height="933" alt="屏幕截图 2025-07-11 215935" src="https://github.com/user-attachments/assets/45e7d137-cd9f-478c-9931-68764261bd2f" />
+<img width="1033" height="854" alt="屏幕截图 2025-07-11 215944" src="https://github.com/user-attachments/assets/a78fe933-4d88-433a-ab7f-7567a3d65ed4" />
+<img width="851" height="931" alt="屏幕截图 2025-07-11 215949" src="https://github.com/user-attachments/assets/5264787b-098e-4781-b5d2-8a78a7f42a5b" />
+<img width="746" height="832" alt="屏幕截图 2025-07-11 220007" src="https://github.com/user-attachments/assets/efab8f9e-48fd-4d86-9e77-9cda6f171452" />
+<img width="920" height="828" alt="屏幕截图 2025-07-11 220012" src="https://github.com/user-attachments/assets/ade2dbba-fa6e-4c2e-a2cd-794e55981cef" />
+<img width="874" height="865" alt="屏幕截图 2025-07-11 220021" src="https://github.com/user-attachments/assets/bf169ef5-6a1c-4bd8-a15b-0a2028928782" />
+<img width="741" height="860" alt="屏幕截图 2025-07-11 220031" src="https://github.com/user-attachments/assets/868efa3b-794d-4014-a6ea-1abfac88d0cb" />
 
 ## 后端管理
+<img width="1497" height="811" alt="屏幕截图 2025-07-11 220454" src="https://github.com/user-attachments/assets/68b332f8-b9b0-4fc3-8a05-47974756244a" />
+<img width="1565" height="892" alt="屏幕截图 2025-07-11 220459" src="https://github.com/user-attachments/assets/08a5c06a-38c2-4547-8b47-1297fcc7ec53" />
+<img width="1594" height="769" alt="屏幕截图 2025-07-11 220504" src="https://github.com/user-attachments/assets/58df231e-29a2-4669-82f9-04e74c22a91f" />
+![Uploading 屏幕截图 2025-07-11 220512.png…]()
 
-![屏幕截图 2025-07-11 220454](lease.assets/屏幕截图2025-07-11220454.png)
 
-![屏幕截图 2025-07-11 220459](lease.assets/屏幕截图2025-07-11220459.png)
-
-![屏幕截图 2025-07-11 220504](lease.assets/屏幕截图2025-07-11220504.png)
-
-![屏幕截图 2025-07-11 220512](lease.assets/屏幕截图2025-07-11220512.png)
 
 # 3、主要涉及的难点
 
