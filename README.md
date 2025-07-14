@@ -104,7 +104,7 @@
 
   - SpringMVC中的`HTTPMessageConverter`组件负责将Controller方法的返回值（Java对象）转换为HTTP响应体中的JSON字符串，或者将请求体中的JSON字符串转换为Controller方法中的参数（Java对象），例如下一个接口**保存或更新标签信息**
 
-    ==**过程是由SpringMvc与数据发送数据交互**==
+    **过程是由SpringMvc与数据发送数据交互**
 
 - **TypeHandler枚举类型转换**
 
@@ -129,7 +129,7 @@
   }
   ```
 
-  ==**由SpringMvc向前端返回数据**==
+  **由SpringMvc向前端返回数据**
 
   - **HTTPMessageConverter枚举类型转换**
 
@@ -254,7 +254,7 @@ public  class xxx
 
 ## 定时任务
 
-需要==开启定时任务来检查租约是否到期==
+需要开启定时任务来检查租约是否到期
 
 在springbootApp上添加注解
 
